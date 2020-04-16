@@ -17,7 +17,7 @@ originally put out by [IntrepidCoder](https://github.com/intrepidcoder/monopoly)
 
 ## Concept explanation
 
-- The idea was based off of the concept that you can make a monopoly game out of any theme!
+- I wanted to prove that you can make a monopoly game out of any theme!
 - This mod was originally completed as my Computer Science Capstone at [CNU](http://cnu.edu/).
   -> Graduating Class of 2020 Computer Science (BS) Leadership Studies (Minor)
 - It was designed to simulate my limited experience with the lifecycle of a fullstack
