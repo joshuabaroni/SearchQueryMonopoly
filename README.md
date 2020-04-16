@@ -1,6 +1,6 @@
 # SearchQueryMonopoly
 
-Search Query Monopoly is a mod to the JavaScript monopoly game
+Search Query Monopoly is my mod to the JavaScript monopoly game
 originally put out by [IntrepidCoder](https://github.com/intrepidcoder/monopoly).
 
 ## Main softwares and languages used
