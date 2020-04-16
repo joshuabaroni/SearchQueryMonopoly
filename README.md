@@ -8,7 +8,7 @@ originally put out by [IntrepidCoder](https://github.com/intrepidcoder/monopoly)
 - Tomcat v9.0 (For Java Servlet)
 - Httpster (for monopoly board)
 - Google Query API (Free Version - 100 Queries/Day)
-  -- Looking to upgrade this post-Part 3 if the server sees enough player traffic.
+  -> Looking to upgrade this post-Part 3 if the server sees enough player traffic.
 - Java 1.8.1 and Java Servlets
 - JavaScript
 - HTML
@@ -19,7 +19,7 @@ originally put out by [IntrepidCoder](https://github.com/intrepidcoder/monopoly)
 
 - The idea was based off of the concept that you can make a monopoly game out of any theme!
 - This mod was originally completed as my Computer Science Capstone at [CNU](http://cnu.edu/).
-  -- Graduating Class of 2020 Computer Science (BS) Leadership Studies (Minor)
+  -> Graduating Class of 2020 Computer Science (BS) Leadership Studies (Minor)
 - It was designed to simulate my limited experience with the lifecycle of a fullstack
 project and uses a basic Java Backend, JavaScript, Python, and HTML/CSS.
 
