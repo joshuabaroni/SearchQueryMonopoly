@@ -54,3 +54,6 @@ change the filespaces in utils.Constants.java/SearchQueryMonopoly.js file to mat
 to get this mod to work.
 - Run [Httpster](https://www.npmjs.com/package/httpster) in the git project's base directory (pipeline) before running the servlet
 - If running from the Java Servlet, start at localhost:<your port>/pipeline/QueryServlet
+
+## Conclusion (For capstone)
+- I wish I could have had more time to focus on this project this semester. As I was taking many other classes in order to finish on time, my attention was split this semester. However, I plan on continuing work on this project and delving into bits of the remainder of this project. Thank you for checking it out!.
